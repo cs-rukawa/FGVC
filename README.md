@@ -1,2 +1,2 @@
 # FGVC
-fine-grained visual categorization
+code for paper, in progress
